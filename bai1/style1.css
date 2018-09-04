@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+
+
+
+}
+
+#flex-container {
+  display: flex;
+  justify-content: space-between;
+  height: 200px;
+
+
+}
+.col{
+  margin:-5px;
+}
+
+nav {
+  background-color: royalblue;
+  height: 75px;
+
+}
+
+header {
+  background-color: lightskyblue;
+  height: 400px;
+}
+
+section {
+  background-color: white: ;
+  margin: 75px 100px;
+  border: 20px;
+  height: 790px;
+  border-color: green;
+  border-style:ridge;
+
+
+}
+
+footer {
+  background-color: black;
+  height: 100px;
+}
+
+p {
+  background-color: khaki;
+  height: 200px;
+  margin-bottom: 75px;
+}
+
+div.col {
+  background-color: tomato;
+  border: 2px solid black;
+  width: calc(48% - 10px);
+  height: 500px;
+}
+p{
+text-align: center;
+padding-left: 450px;
+padding-right: 450px;
+}
+#Jared{
+  color: green;
+}
+#noidung
+{
+  color:blue;
+}
